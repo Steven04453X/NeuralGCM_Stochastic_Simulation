@@ -3,7 +3,6 @@
 Scripts for running continuous (multi-month) free simulations using [NeuralGCM](https://github.com/google-research/neuralgcm), a neural general circulation model for weather and climate, initialized from ERA5 reanalysis data.
 
 > **Reference:** 
-- Kochkov, D., and Coauthors, 2024: Neural general circulation models for weather and climate. *Nature*. https://doi.org/10.1038/s41586-024-07744-y
 - Yuval, J., et al. (2026). Neural general circulation models optimized to predict satellite-based precipitation observations. *Science Advances*, 12(eadv6891), 1–11. https://doi.org/10.1126/sciadv.adv6891
 - Chen, Z., Leung, L. R., Zhou, W., Lu, J., Lubis, S. W., Liu, Y., et al. (2026). Hierarchical Testing of a Hybrid Machine Learning‐Physics Global Atmosphere Model. *AGU Advances*, 7(2), 1–23. https://doi.org/10.1029/2025AV002075
 
