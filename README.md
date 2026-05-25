@@ -158,7 +158,7 @@ Time axis is encoded as `YYYYMMDD.fraction` (fraction = hour/24).
 ## Authors
 
 - **Ziming Chen** — PNNL (ziming.chen@pnnl.gov)
-- **Ya Wang** — IAP, CAS
+- **Ya Wang** — IAP, CAS (wangya@mail.iap.ac.cn)
 - **Letian Gu** — IAP, CAS
 
 ---
