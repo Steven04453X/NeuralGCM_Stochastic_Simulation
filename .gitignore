@@ -1,0 +1,22 @@
+# ERA5 input / forcing data
+ERA5/
+
+# NeuralGCM model weights
+Models/
+
+# Simulation output directories
+Output_*/
+
+# Log files
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Common large data file formats
+*.nc
+*.pkl
+*.h5
+*.hdf5
+*.zarr
