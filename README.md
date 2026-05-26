@@ -51,8 +51,8 @@ This code runs with the `py_ai2` conda environment. Key dependencies:
 
 Download NeuralGCM model weights (`.pkl`) from the [NeuralGCM releases](https://github.com/google-research/neuralgcm) and place them in the `Models/` directory.
 
-> **Direct download (hosted on Zenodo):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-> *(Replace the DOI placeholder once you upload to Zenodo)*
+> **Direct download (hosted on Zenodo):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20398760.svg)](https://doi.org/10.5281/zenodo.20398760)
+> *([Replace the DOI placeholder once you upload to Zenodo](https://doi.org/10.5281/zenodo.20398760))*
 
 ---
 
@@ -64,8 +64,8 @@ Large files are **not tracked by this repository**. Download them from the links
 |------|-----------|--------|---------|
 | NeuralGCM model weights (`.pkl`) | `Models/` | Google / NeuralGCM | [NeuralGCM GitHub releases](https://github.com/google-research/neuralgcm) |
 | ERA5 reanalysis (pressure-level & surface) | `ERA5/` | ECMWF / CISL RDA | [Copernicus CDS](https://cds.climate.copernicus.eu) / [CISL RDA ds633.6](https://rda.ucar.edu/datasets/d633006/) |
-| Sample ERA5 subset for testing | `ERA5/` | This study | [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) *(placeholder)* |
-| Sample output (2025-12 AMIP control) | `Output_AMIP_InitCon*/` | This study | [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) *(placeholder)* |
+| Sample ERA5 subset for testing | `ERA5/` | This study | [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.20398760.svg)](https://doi.org/10.5281/zenodo.20398760) *(placeholder)* |
+| Sample output (2025-12 AMIP control) | `Output_AMIP_InitCon*/` | This study | [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.20398760.svg)](https://doi.org/10.5281/zenodo.20398760) *(placeholder)* |
 
 > **How to upload to Zenodo:**
 > 1. Go to [https://zenodo.org](https://zenodo.org) and log in (free, supports login via GitHub/ORCID).
@@ -90,6 +90,8 @@ Expected file naming convention (CISL RDA format):
 e5.oper.an.pl.128_131_u.ll025uv.YYYYMMDDHH_YYYYMMDDHH.nc   # example
 e5.oper.an.sfc.128_031_ci.ll025sc.YYYYMM0100_YYYYMMddHH.daymean.nc
 ```
+
+Please see the sample for testing on zenodo
 
 ---
 
