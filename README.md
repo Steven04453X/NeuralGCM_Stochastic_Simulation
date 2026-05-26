@@ -52,7 +52,7 @@ This code runs with the `py_ai2` conda environment. Key dependencies:
 Download NeuralGCM model weights (`.pkl`) from the [NeuralGCM releases](https://github.com/google-research/neuralgcm) and place them in the `Models/` directory.
 
 > **Direct download (hosted on Zenodo):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20398760.svg)](https://doi.org/10.5281/zenodo.20398760)
-> *([Replace the DOI placeholder once you upload to Zenodo](https://doi.org/10.5281/zenodo.20398760))*
+> *(https://doi.org/10.5281/zenodo.20398760)*
 
 ---
 
